@@ -1,9 +1,4 @@
-Olá, eu sou o Guilherme;
-
-Sou um entusiasta de programação, e atualmente estou aprendendo HTML, CSS e JavaScript;
-
-Tenho 15 anos;
-
-Gosto de ler livros sobre ficção científica, e física quântica.
-
-😎
+Oi, eu sou o Guilherme
+Tenho 17 anos
+No momento estou aprendendo programação e trabalhando em projetos escolares
+Linguagens que sei codar: HTML, CSS, JS, PHP e SQL
